@@ -1,0 +1,55 @@
+.news1 {
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+    background-color: #FAFCFF;
+    border: solid 1px #FFFFFF5C;
+    box-shadow: 6px -4px 12px #D6D5DD1A;
+
+    margin-bottom: 0.3rem;
+}
+
+.news2 {
+    composes: news1;
+    background-color: transparent;
+    box-shadow: 6px -4px 12px #ABAAB41A;
+}
+
+.date {
+    margin: 0;
+    width: 15%;
+
+    font-family: 'Arsenal', sans-serif;
+    color: #484A7A;
+    font-size: 1.25rem;
+}
+
+.titleFade {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, transparent, transparent, #FAFCFF);
+}
+
+.title {
+    position: relative;
+    margin: 0;
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+
+    font-family: 'Inter', sans-serif;
+    color: #484A7A;
+    font-size: 1.125rem;
+} 
+
+.media {
+    margin: 0;
+    width: 15%;
+
+    font-family: 'Inter', sans-serif;
+    color: #777896;
+    font-size: 1.06rem;
+}

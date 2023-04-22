@@ -1,0 +1,20 @@
+[
+    {
+        "image": "images/img_iosClub.png",
+        "title": "iOS Club",
+        "description": "學習Swift課程的相關社團",
+        "link": ""
+    },
+    {
+        "image": "images/img_developInSwift.png",
+        "title": "Develop in Swift",
+        "description": "由Apple官方提出關於學習Swift開發",
+        "link": ""
+    },
+    {
+        "image": "images/img_swiftStudentChallenge.png",
+        "title": "Swift Student Challenge",
+        "description": "由Apple舉辦關於Swift的學生挑戰賽",
+        "link": "https://developer.apple.com/wwdc22/swift-student-challenge/"
+    }
+]

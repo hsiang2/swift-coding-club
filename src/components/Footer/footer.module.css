@@ -1,0 +1,48 @@
+.footer {
+    width: 100%;
+    background-color: #F1F4FC9E;
+}
+
+.footerTop {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.footerLeft {
+    display: flex;
+    gap: 6.5rem;
+}
+
+.footerItem {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.footerItem p {
+    font-family: 'Shippori Mincho', serif;
+    font-weight: 600;
+    color: #343893;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+}
+
+.footerItem a {
+    font-family: 'Arsenal', sans-serif;
+    font-size: 0.875rem;
+    color: #777896;
+}
+
+
+.footerBottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 1rem;
+    color: #343893;
+    height: 5rem;
+    background-color: #E4E5FC8A;
+}

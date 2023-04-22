@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+}
+
+.card {
+    font-family: 'Tienne', serif;
+    width: 19.7rem;
+    height: 25.125rem;
+    background-color: #FAFCFF;
+    box-shadow: 4px 4px 29px #213B7C14;
+    border-radius: 32px;
+    padding: 1.125rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    color: #343893;
+    height: 4.875rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.description {
+    color: #777896;
+    font-size: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.img {
+    margin-bottom: 1.625rem;
+    border-radius: 12px;
+}
